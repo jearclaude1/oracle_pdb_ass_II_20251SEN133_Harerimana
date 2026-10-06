@@ -34,7 +34,7 @@ Oracle Database Pluggable Database (PDB) creation, management, cleanup, and moni
   Task 2: PDB Cleanup & Temporary Database Management
   Objective: creating and dropping temporary pluggable databases to manage storage and resources.
   Commands Used:
-``` sql
+` sql
  -- creation
   CREATE PLUGGABLE DATABASE Ha_to_delete_pdb_20251SEN133
   ADMIN USER temp_admin IDENTIFIED BY Temp123
@@ -44,7 +44,7 @@ Oracle Database Pluggable Database (PDB) creation, management, cleanup, and moni
   <img width="1918" height="280" alt="image" src="https://github.com/user-attachments/assets/e5638a3c-f9cb-4a46-ae47-e0275a42b5ec" />
  
  -- Drop
-``` sql
+`` sql
   DROP PLUGGABLE DATABASE Ha_to_delete_pdb_20251SEN133 INCLUDING DATAFILES;
   <img width="1913" height="343" alt="image" src="https://github.com/user-attachments/assets/381a4e66-35a7-4d31-8482-fd164930b9e1" />
 
