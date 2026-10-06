@@ -1,4 +1,4 @@
-<img width="386" height="218" alt="Screenshot 2024-05-01 154943" src="https://github.com/user-attachments/assets/e203c70c-b9e6-495d-a4c0-83d7e7d96cd3" /># oracle_pdb_ass_II_20251SEN133_Harerimana
+oracle_pdb_ass_II_20251SEN133_Harerimana
 Oracle Progeble_Databse 
 
 # Overview of Tasks
