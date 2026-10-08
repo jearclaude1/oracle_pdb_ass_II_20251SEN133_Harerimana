@@ -19,8 +19,6 @@ READ,WRITE
   ```   
   CREATE PLUGGABLE DATABASE HA_PDB_20251SEN133 ADMIN USER pdb_admin IDENTIFIED BY Pdb123
   FILE_NAME_CONVERT = ('C:\ORACLE\ORA\ORADATA\XE\PDBSEED\', 'C:\ORACLE\ORA\ORADATA\XE\HA_PDB_20251SEN133\');
-
-<img width="1918" height="150" alt="Screenshot 2026-10-06 170252" src="https://github.com/user-attachments/assets/ccef2d82-170f-4466-8d6c-50b6b5f67030" />
 ```
 --- Open it to use it
 ```  
